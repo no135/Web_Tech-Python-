@@ -1,0 +1,5 @@
+# PEP
+ -python enhancement proposal
+ -forrmal document used by python community
+ -to propose new features, improvement or standard for python
+ -simply it is standard or guideline to write python and it's working

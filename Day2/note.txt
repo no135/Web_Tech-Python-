@@ -1,0 +1,1 @@
+dictionary is like hashmap that have key value pair on python and object on js.
