@@ -1,0 +1,15 @@
+what does dynamic and static database?
+static database is the data content does not change(read only).
+dynamic database is when the data content can be changed(write and read).
+
+self is reference to current instance of class.
+
+framework is pre built collection of tools,libraries, convention that help developers to built more easily and efficiently.
+
+model viable product(MVP) is simplest version of product that have enough features to solve core problem and collected feedback.
+
+model view templete(MVT): is design pattern django uses to organize code.
+    model handles the data
+    view handles the logic
+    templete handles presentation and what the user see
+
